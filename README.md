@@ -31,8 +31,8 @@ optionally provide a dialog to update the device's settings.
 Prerequisites
 --------------
 
-- Android API Level >v9
-- Android Build Tools >v21
+- Android API Level > v9
+- Android Build Tools > v21
 - Google Support Repository
 
 Getting Started
